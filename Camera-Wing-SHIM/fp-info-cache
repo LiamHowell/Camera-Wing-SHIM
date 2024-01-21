@@ -1,4 +1,4 @@
-22458441756786650
+22689967184904301
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51701,6 +51701,552 @@ muRata MEJ1S DCDC-Converter
 0
 4
 4
+Core_Elec_Footprints
+Antenna_Chip_TDK_ANT160920ST-1204A1
+Antenna Chip TDK ANT160920ST-1204A1
+
+0
+4
+3
+Core_Elec_Footprints
+Capacitive_Touch_Button
+
+
+0
+1
+1
+Core_Elec_Footprints
+Conn_PCB-edge_1x03_SMD
+surface pads for joining boards that their edges
+
+0
+3
+3
+Core_Elec_Footprints
+Conn_RF_SMA_EdgeMount
+SMA connector edge mounting to suit WRL-00593
+sma edge launch mount
+0
+5
+2
+Core_Elec_Footprints
+Conn_Wire
+Thru-hole pad for bare wire. No mask clearance
+
+0
+1
+1
+Core_Elec_Footprints
+Conn_alligator
+alligator connector
+alligator clip
+0
+1
+1
+Core_Elec_Footprints
+Conn_alligator-banana
+micro:bit style alligator / 4mm banana connector
+microbit alligator banana clip
+0
+4
+1
+Core_Elec_Footprints
+Conn_microbit_Right_Angle_SMT
+Edge connector for Micro:Bit, right-angle surface mount with alignment pins and locks
+micro bit PCI edge
+0
+44
+41
+Core_Elec_Footprints
+Conn_microbit_clip
+A micro:bit compatible edge-connection for banana / alligator. 
+microbit micro bit alligator
+0
+1
+1
+Core_Elec_Footprints
+ECS-MPIL0630
+ECS Inductor series MPIL0630
+inductor MPIL 0630
+0
+2
+2
+Core_Elec_Footprints
+Fiducial_1mm_Mask2mm_No_Courtyard
+Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A).  No Courtyard (to allow components to be placed on top)
+fiducial
+0
+1
+0
+Core_Elec_Footprints
+HOPERF_RFM69HCW_SMD
+RFM69HCW
+Transceiver Module
+0
+16
+16
+Core_Elec_Footprints
+JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal
+JST SH series connector, SM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator, nominal courtyard
+connector JST SH top entry
+0
+6
+5
+Core_Elec_Footprints
+Jumper_Resistor_SPDT_0603_1608Metric
+Resistor SMD 0603 with two placement options for creating a SPDT jumper intended for RF applications
+resistor jumper spdt
+0
+3
+3
+Core_Elec_Footprints
+Kemet_FC_10.5X5.5
+KEMET FC (10.5x5.5)
+Capacitor
+0
+2
+2
+Core_Elec_Footprints
+LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm
+LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode reverse
+0
+2
+2
+Core_Elec_Footprints
+LED_1208_3020Metric_Heatsink
+
+
+0
+3
+2
+Core_Elec_Footprints
+LED_GlowBit_WS2812B_NoSilk
+WS2812B LED with minimal silkscreen
+LED RGB
+0
+4
+4
+Core_Elec_Footprints
+LED_GlowBit_WS2812B_NoSilk_HandSolder
+WS2812B LED with minimal silkscreen for hand-soldering
+LED RGB
+0
+4
+4
+Core_Elec_Footprints
+LGA-8_1.2x1.2mm_P0.4mm
+8-Pin LGA 1.2mm x 1.2mm as used by QMC6310
+QMC6310
+0
+8
+8
+Core_Elec_Footprints
+LTR-390UV-01
+
+
+0
+6
+6
+Core_Elec_Footprints
+MicroCrystal_RV3028C7
+RV-3028-C7 32768kHz1ppmTAQC
+Crystal or Oscillator
+0
+8
+8
+Core_Elec_Footprints
+MountingHole_2.7mm_M2.5_PadClearance_1.2
+Mounting Hole 2.7mm, no annular, M2.5
+mounting hole 2.7mm no annular m2.5
+0
+0
+0
+Core_Elec_Footprints
+OLED-128O064D_reduced_paste
+128x64 OLED display with 70% paste coverage on pad
+display oled ssd1306
+0
+60
+30
+Core_Elec_Footprints
+PiicoDev_Connector_with_UPDI
+4-pin SH connector with test point for UPDI programming
+piicodev updi connector JST SH
+0
+7
+6
+Core_Elec_Footprints
+PiicoDev_OLED_Module
+Through-hole mount for PiicoDev OLED Module. Two mounting options 90 degrees
+oled piicodev
+0
+8
+4
+Core_Elec_Footprints
+PiicoDev_header_1pin
+Through hole straight pin header for PiicoDev modules
+Through hole pin header THT 1x01 2.54mm single row Piico Dev
+0
+1
+1
+Core_Elec_Footprints
+PiicoDev_header_1pin_ADR
+Through hole straight pin header for PiicoDev modules (Address pin)
+Through hole pin header THT 1x01 2.54mm single row Piico Dev
+0
+1
+1
+Core_Elec_Footprints
+PiicoDev_header_1pin_INT_inverted
+Through hole straight pin header for PiicoDev modules (Address pin)
+Through hole pin header THT 1x01 2.54mm single row Piico Dev
+0
+1
+1
+Core_Elec_Footprints
+PiicoDev_header_1pin_INT_uninverted
+Through hole straight pin header for PiicoDev modules (Address pin)
+Through hole pin header THT 1x01 2.54mm single row Piico Dev
+0
+1
+1
+Core_Elec_Footprints
+PiicoDev_header_1pin_LED
+Through hole straight pin header for PiicoDev modules (Address pin)
+Through hole pin header THT 1x01 2.54mm single row Piico Dev
+0
+1
+1
+Core_Elec_Footprints
+PiicoDev_header_2pin_no_labels
+Through hole straight pin header for PiicoDev modules (no labels)
+Through hole pin header THT 2.54mm single row Piico Dev
+0
+2
+2
+Core_Elec_Footprints
+PiicoDev_header_4pin
+Through hole straight pin header for PiicoDev modules (with interrupt)
+Through hole pin header THT 1x05 2.54mm single row Piico Dev
+0
+4
+4
+Core_Elec_Footprints
+PiicoDev_header_4pin_no_labels
+Through hole straight pin header for PiicoDev modules (no labels)
+Through hole pin header THT 2.54mm single row Piico Dev
+0
+4
+4
+Core_Elec_Footprints
+PiicoDev_header_5pin
+Through hole straight pin header for PiicoDev modules (no labels)
+Through hole pin header THT 2.54mm single row Piico Dev
+0
+5
+5
+Core_Elec_Footprints
+PiicoDev_header_5pin_INT
+Through hole straight pin header for PiicoDev modules (with interrupt)
+Through hole pin header THT 1x05 2.54mm single row Piico Dev
+0
+5
+5
+Core_Elec_Footprints
+PiicoDev_header_6pin
+Through hole straight pin header for PiicoDev modules (no labels)
+Through hole pin header THT 2.54mm single row Piico Dev
+0
+6
+6
+Core_Elec_Footprints
+PiicoDev_header_programming_test_1x05_P1.27mm_Vertical
+Test Point, 1x05, 1.27mm pitch, double rows
+test point SMD 2x03 1.27mm double row
+0
+5
+5
+Core_Elec_Footprints
+PinHeader_1x03_P2.54mm_Vertical_SMD_Symmetric
+surface-mounted straight pin header, 1x03, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x03 2.54mm single row style1 pin1 left
+0
+6
+3
+Core_Elec_Footprints
+PinHeader_1x04_P2.54mm_Vertical_SMD_Symmetric
+surface-mounted straight pin header, 1x04, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x04 2.54mm single row style1 pin1 left
+0
+8
+4
+Core_Elec_Footprints
+PinHeader_1x06_P2.54mm_Vertical_SMD_Symmetric
+surface-mounted straight pin header, 1x06, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x06 2.54mm single row style1 pin1 left
+0
+12
+6
+Core_Elec_Footprints
+PinHeader_1x07_P2.54mm_Vertical_SMD_Symmetric
+surface-mounted straight pin header, 1x07, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x07 2.54mm single row style1 pin1 left
+0
+14
+7
+Core_Elec_Footprints
+PinHeader_1x08_P2.54mm_Vertical_SMD_Symmetric
+surface-mounted straight pin header, 1x08, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x08 2.54mm single row style1 pin1 left
+0
+16
+8
+Core_Elec_Footprints
+PinHeader_1x10_P2.54mm_Vertical_SMD_Symmetric
+surface-mounted straight pin header, 1x10, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x10 2.54mm single row style1 pin1 left
+0
+20
+10
+Core_Elec_Footprints
+PinSocket_1x04_P2.54mm_Vertical_SMD_Symmetric
+surface-mounted straight socket strip, 1x04, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
+Surface mounted socket strip SMD 1x04 2.54mm single row style1 pin1 left
+0
+8
+4
+Core_Elec_Footprints
+PinSocket_1x06_P2.54mm_Vertical_SMD_Symmetric
+surface-mounted straight socket strip, 1x06, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
+Surface mounted socket strip SMD 1x06 2.54mm single row style1 pin1 left
+0
+12
+6
+Core_Elec_Footprints
+PinSocket_1x07_P2.54mm_Vertical_SMD_Symmetric
+surface-mounted straight socket strip, 1x07, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
+Surface mounted socket strip SMD 1x07 2.54mm single row style1 pin1 left
+0
+14
+7
+Core_Elec_Footprints
+PinSocket_1x08_P2.54mm_Vertical_SMD_Symmetric
+surface-mounted straight socket strip, 1x08, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
+Surface mounted socket strip SMD 1x08 2.54mm single row style1 pin1 left
+0
+16
+8
+Core_Elec_Footprints
+PinSocket_1x10_P2.54mm_Vertical_SMD_Symmetric
+surface-mounted straight socket strip, 1x10, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
+Surface mounted socket strip SMD 1x10 2.54mm single row style1 pin1 left
+0
+20
+10
+Core_Elec_Footprints
+PinSocket_2x20_P2.54mm_Vertical_SMD_With_Post
+surface-mounted straight socket strip, 2x20, 2.54mm pitch, double cols, with alignment post
+Surface mounted socket strip SMD 2x20 2.54mm double row alignment post
+0
+40
+40
+Core_Elec_Footprints
+PogoPin_D1.0mm_x05_Pattern1
+5x1.0mm Pads Pattern 1
+testpoint test point pad
+0
+5
+5
+Core_Elec_Footprints
+PogoPin_D1.0mm_x05_Pattern2
+5x1.0mm Pads Pattern 2
+testpoint test point pad
+0
+5
+5
+Core_Elec_Footprints
+Potentiometer_Alps_RK09L_Single_Vertical
+ 1140A5L 114001E 1140A2U 114001T Potentiometer, vertical, Alps RK09L Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
+Potentiometer vertical Alps RK09L Single
+0
+5
+4
+Core_Elec_Footprints
+Potentiometer_Bourns_PTA3043_Single_Slide
+Bourns single-gang slide potentiometer, 30.0mm travel, larger pads, https://www.bourns.com/docs/Product-Datasheets/pta.pdf
+Bourns single-gang slide potentiometer 30.0mm
+0
+7
+4
+Core_Elec_Footprints
+RaspberryPi_Pico_R3_SMD
+Surface mount footprint for RPi Pico (castellated pads)
+SMT
+0
+53
+44
+Core_Elec_Footprints
+RaspberryPi_Pico_R3_Socket
+Surface mount footprint for RPi Pico (castellated pads)
+SMT
+0
+80
+40
+Core_Elec_Footprints
+RaspberryPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+86
+43
+Core_Elec_Footprints
+S335
+DC DC converter module by Core Electronics
+switchmode buck boost
+0
+8
+8
+Core_Elec_Footprints
+SW_DIP_SPSTx02_Slide_DSHP
+Dip switch 2 pole YOSO
+
+0
+4
+4
+Core_Elec_Footprints
+SW_DIP_x01_Slide_CHS-01A1
+Dip Switch 1 Pole CHS-01A1
+
+0
+2
+2
+Core_Elec_Footprints
+SW_DIP_x02_Slide_CHS-02A1
+Dip Switch 2 Pole CHS-02A1
+
+0
+4
+4
+Core_Elec_Footprints
+SW_DIP_x03_Slide_CHS-03A1
+Dip Switch 3 Pole CHS-03A1
+
+0
+6
+6
+Core_Elec_Footprints
+SW_DIP_x04_Slide_CHS-04A1
+Dip Switch 4 Pole CHS-04A1
+
+0
+8
+8
+Core_Elec_Footprints
+SW_PUSH-12mm
+SW PUSH 12mm Improved Courtyard https://www.e-switch.com/system/asset/product_line/data_sheet/143/TL1100.pdf
+tact sw push 12mm
+0
+8
+2
+Core_Elec_Footprints
+SW_Tactile_5x5
+https://www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf
+TL3305 Series Tact Switch
+0
+4
+2
+Core_Elec_Footprints
+ScioSense_ENS160
+ScioSense ENS160
+ScioSense ENS160
+0
+9
+9
+Core_Elec_Footprints
+SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip, no mask
+net tie solder jumper open
+0
+2
+2
+Core_Elec_Footprints
+SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open, no mask
+solder jumper open
+0
+2
+2
+Core_Elec_Footprints
+SolderJumper-3_P1.3mm_Closed_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, closed, labeled with numbers
+net tie solder jumper open
+0
+3
+3
+Core_Elec_Footprints
+SolderJumper-3_P1.3mm_Closed_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, closed, labeled with numbers, no mask
+net tie solder jumper open
+0
+3
+3
+Core_Elec_Footprints
+TE_MS5637
+
+
+0
+4
+4
+Core_Elec_Footprints
+TestPoint_Pad_0.7x0.7mm
+SMD rectangular pad as test Point, square 0.7mm side length
+test point SMD pad rectangle square
+0
+1
+1
+Core_Elec_Footprints
+TestPoint_Pad_D1.0mm_x05_Pattern1
+5x1.0mm Pads Pattern 1
+testpoint test point pad
+0
+5
+5
+Core_Elec_Footprints
+TestPoint_Pad_D1.0mm_x05_Pattern2
+5x1.0mm Pads Pattern 2
+testpoint test point pad
+0
+5
+5
+Core_Elec_Footprints
+USB_C_Receptacle_HRO_TYPE-C-31-M-12-with-paste
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+Core_Elec_Footprints
+VISHAY_VEML6030_2X2X0.87
+
+
+0
+6
+6
+Core_Elec_Footprints
+VISHAY_VEML6040_2X1.25X1
+
+
+0
+4
+4
+Core_Elec_Footprints
+VREG_TPS63070RNMR
+
+
+0
+15
+15
 Crystal
 Crystal_AT310_D3.0mm_L10.0mm_Horizontal
 Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf
@@ -62509,6 +63055,412 @@ Yellow 5381 Series LED
 0
 2
 2
+Liam-Footprints
+6-pin-SMD-R2
+
+
+0
+0
+0
+Liam-Footprints
+MouBitNPad
+
+
+0
+28
+4
+Liam-Footprints2
+18650_Holder
+
+
+0
+2
+2
+Liam-Footprints2
+ADA562
+
+
+0
+0
+0
+Liam-Footprints2
+AP4435C
+
+
+0
+8
+3
+Liam-Footprints2
+AdventureHeader
+
+
+0
+20
+20
+Liam-Footprints2
+AdventureHeader_LargeMount
+
+
+0
+20
+20
+Liam-Footprints2
+AdventureHeader_SmallAndLargeMounts
+
+
+0
+20
+20
+Liam-Footprints2
+AdventureHeader_SmallMount
+
+
+0
+20
+20
+Liam-Footprints2
+BarrelJack
+
+
+0
+3
+3
+Liam-Footprints2
+Button
+
+
+0
+0
+0
+Liam-Footprints2
+Conn1x1SMD
+
+
+0
+1
+1
+Liam-Footprints2
+Conn1x3SMD
+
+
+0
+3
+3
+Liam-Footprints2
+Cut_Pico
+
+
+0
+56
+28
+Liam-Footprints2
+DFR0569-5V-Regulator
+
+
+0
+4
+4
+Liam-Footprints2
+DFR0952-TRIAL
+
+
+0
+4
+4
+Liam-Footprints2
+ESP-CAM
+
+
+0
+17
+17
+Liam-Footprints2
+ESP-PROG-EZ
+
+
+0
+6
+6
+Liam-Footprints2
+ESP-PROG-EZ-Adapter_footprint
+
+
+0
+6
+6
+Liam-Footprints2
+ESP-PROG-JTAG
+
+
+0
+10
+10
+Liam-Footprints2
+ESP32-C3
+
+
+0
+39
+19
+Liam-Footprints2
+FIT0869
+
+
+0
+12
+6
+Liam-Footprints2
+Fuse_M205
+
+
+0
+4
+2
+Liam-Footprints2
+GlowBit_Header
+
+
+0
+4
+4
+Liam-Footprints2
+Joystick w button
+
+
+0
+14
+14
+Liam-Footprints2
+Jumper_HighPWR
+
+
+0
+2
+2
+Liam-Footprints2
+LD1117-3.3
+
+
+0
+3
+3
+Liam-Footprints2
+LED
+
+
+0
+2
+2
+Liam-Footprints2
+LiPo_Charger
+
+
+0
+4
+4
+Liam-Footprints2
+LogicLevelConverter
+
+
+0
+12
+12
+Liam-Footprints2
+OCTAPAK
+Octapak
+Integrated Circuit
+0
+8
+8
+Liam-Footprints2
+POLOLU-2586
+
+
+0
+5
+5
+Liam-Footprints2
+PROG-Adapter-header
+
+
+0
+10
+10
+Liam-Footprints2
+PWRn2Sig_Interconnect
+
+
+0
+20
+8
+Liam-Footprints2
+Pico-stripped
+
+
+0
+78
+39
+Liam-Footprints2
+PiicodevBreadboard
+
+
+0
+4
+4
+Liam-Footprints2
+SOT-23_HandSolder
+
+
+0
+3
+3
+Liam-Footprints2
+SRD-05VDC-SL-C
+
+
+0
+5
+5
+Liam-Footprints2
+SSOP-20_4.4x6.5xP0.65mm_Bridges
+
+
+0
+28
+20
+Liam-Footprints2
+STM32F446RE-NUCLEO
+
+
+0
+76
+76
+Liam-Footprints2
+Schottky
+
+
+0
+2
+2
+Liam-Footprints2
+Screw2Pin
+
+
+0
+2
+2
+Liam-Footprints2
+Screw3Pin
+
+
+0
+3
+3
+Liam-Footprints2
+Screw_2_5.0_pluggable
+
+
+0
+2
+2
+Liam-Footprints2
+Screw_3-2.54-pluggable
+
+
+0
+3
+3
+Liam-Footprints2
+SensorMount
+
+
+0
+0
+0
+Liam-Footprints2
+SensorMount_Double
+
+
+0
+0
+0
+Liam-Footprints2
+Solder_Jumper_4
+
+
+0
+7
+4
+Liam-Footprints2
+SwissHeader_01x14
+
+
+0
+13
+13
+Liam-Footprints2
+SwissHeader_01x14_ESP32C3
+
+
+0
+14
+14
+Liam-Footprints2
+Switch_Small
+
+
+0
+2
+2
+Liam-Footprints2
+TC-2050-L
+
+
+0
+10
+10
+Liam-Footprints2
+USB_A_PCB
+
+
+0
+4
+4
+Liam-Footprints2
+VN7004CHTR
+
+
+0
+8
+8
+Liam-Footprints2
+WS2812Bv5_5050_GlowBit_HandSolder
+
+
+0
+4
+4
+Liam-Footprints2
+XT-30-GB-3803-0033-0002
+
+
+0
+4
+3
+Liam-Footprints2
+ZipTie_5x2
+
+
+0
+0
+0
+Liam-Footprints2
+conn_02x03
+
+
+0
+6
+6
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
