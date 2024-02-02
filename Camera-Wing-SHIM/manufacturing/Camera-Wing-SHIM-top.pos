@@ -1,0 +1,9 @@
+### Footprint positions - created on Sun Jan 21 19:00:53 2024 ###
+### Printed by KiCad version 7.0.9
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                    Package                               PosX       PosY       Rot  Side
+J1        Pico_RHS_Headers       Pico-Wing-Shim-SPI                 81.3150   -80.0100    0.0000  top
+J2        SMD_Header_Connection  6-pin-SMD-R2                       93.8710  -114.2640    0.0000  top
+J3        Pin_Connection         PinHeader_1x06_P2.54mm_Vertical    87.7750  -112.9940    0.0000  top
+## End
